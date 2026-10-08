@@ -1,4 +1,4 @@
-# Codex Game Studios
+# Codex Game Studio
 
 This is the Codex port of Claude Code Game Studios. Start with `$ccgs-start` or `$ccgs-help`.
 The studio's original `CLAUDE.md` is retained as a legacy mirror and source

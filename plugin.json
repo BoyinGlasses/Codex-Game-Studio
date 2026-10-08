@@ -1,12 +1,12 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "ccgs-codex",
+  "name": "codex-game-studio",
   "version": "0.1.0",
-  "description": "Codex port of Claude Code Game Studios: game development skills, specialist agents, project template, and validation hooks.",
+  "description": "Codex Game Studio: game development workflows, specialist agents, project template, and validation hooks.",
   "author": {
     "name": "BoyinGlasses"
   },
-  "repository": "https://github.com/BoyinGlasses/ccgs-codex",
+  "repository": "https://github.com/BoyinGlasses/Codex-Game-Studio",
   "license": "MIT",
   "keywords": [
     "codex",
@@ -19,16 +19,16 @@
   "extensions": {
     "com.openai": {
       "interface": {
-        "displayName": "Game Studios for Codex",
-        "shortDescription": "A complete game development studio for Codex",
-        "longDescription": "74 adapted workflows, 49 specialist agent roles, a complete game project template, and Codex-compatible validation hooks.",
+        "displayName": "Codex Game Studio",
+        "shortDescription": "Build games with coordinated Codex specialists",
+        "longDescription": "74 game development workflows, 49 specialist roles, a game project template, and Codex validation hooks.",
         "developerName": "BoyinGlasses",
         "category": "Productivity",
         "capabilities": [
           "Read",
           "Write"
         ],
-        "defaultPrompt": "Create a new game project with Codex Game Studios."
+        "defaultPrompt": "Create a new game project with Codex Game Studio."
       }
     }
   }

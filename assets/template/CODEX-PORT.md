@@ -1,4 +1,4 @@
-# Codex Game Studios port
+# Codex Game Studio port
 
 Source: https://github.com/Donchitos/Claude-Code-Game-Studios at commit
 `d05699707fae39a9b3c78f4b5f69eb77819094f1` (MIT).

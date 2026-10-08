@@ -1,4 +1,4 @@
-# Codex Game Studios project
+# Codex Game Studio project
 
 This project uses [AGENTS.md](AGENTS.md) and [project.yaml](project.yaml).
 Start with `$ccgs-start`, or use `$ccgs-help` to find the next workflow. Skills

@@ -1,6 +1,6 @@
 ---
 name: ccgs-new-game
-description: Create a new Codex Game Studios game project from the complete ported template when the user asks to start a CCGS project.
+description: Create a new Codex Game Studio game project from the complete ported template when the user asks to start a CCGS project.
 ---
 
 Resolve `../../assets/template` relative to this `SKILL.md`, then copy it with

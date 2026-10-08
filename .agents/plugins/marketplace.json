@@ -1,14 +1,14 @@
 {
-  "name": "ccgs-codex",
+  "name": "codex-game-studio",
   "interface": {
-    "displayName": "Game Studios for Codex"
+    "displayName": "Codex Game Studio"
   },
   "plugins": [
     {
-      "name": "ccgs-codex",
+      "name": "codex-game-studio",
       "source": {
         "source": "url",
-        "url": "https://github.com/BoyinGlasses/ccgs-codex.git",
+        "url": "https://github.com/BoyinGlasses/Codex-Game-Studio.git",
         "ref": "main"
       },
       "policy": {

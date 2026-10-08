@@ -15,7 +15,7 @@ TEMPLATE = ROOT / "assets" / "template"
 
 
 def main() -> None:
-    assert json.loads((ROOT / "plugin.json").read_text(encoding="utf-8"))["name"] == "ccgs-codex"
+    assert json.loads((ROOT / "plugin.json").read_text(encoding="utf-8"))["name"] == "codex-game-studio"
     plugin_skills = {p.name for p in (ROOT / "skills").iterdir() if p.is_dir()}
     project_skills = {p.name for p in (TEMPLATE / ".agents" / "skills").iterdir() if p.is_dir()}
     assert plugin_skills == project_skills | {"ccgs-new-game"}
